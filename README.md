@@ -43,7 +43,7 @@ bash runs.sh {train | test} {WN18rr | WN18 | FB15k | FB15k-237 | YAGO3-10} <trai
 
 To reproduce the results of SeTransE, run the following commands.
 
-### HAKE
+### SeTransE
 ```
 # WN18rr
 bash runs.sh train WN18rr 500 1.0 0.5 0.00007 50000
